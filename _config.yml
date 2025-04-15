@@ -1,3 +1,9 @@
-title: My Jekyll Site
-theme: minima
+title: "Christina Heese's Blog"
+description: "A personal blog showcasing thoughts, insights, and more."
+theme: jekyll-theme-minimal
+url: "https://christinaheese.github.io"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
+author:
+  name: "Christina Heese"
+  email: "christinagheese@gmail.com"
