@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Welcome to My Blog"
 ---
+# Welcome to Christina's Blog!
 
-Welcome to my Jekyll site!
+This is where I share my thoughts, ideas, and more. Feel free to explore my posts.
